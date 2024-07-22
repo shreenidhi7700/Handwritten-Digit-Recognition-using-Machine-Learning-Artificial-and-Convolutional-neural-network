@@ -32,7 +32,7 @@ plates of vehicles, processing bank cheque amounts, numeric entries in forms fil
 
 **Output**: The model outputs the most likely digit based on the extracted features.
 
-## Dataset for the project is pre-built into the **keras.dataset** library and can be extracted using a simple code, which you can refer using my jupyter notebook.
+### Dataset for the project is pre-built into the **keras.dataset** library and can be extracted using a simple code, which you can refer using my jupyter notebook.
 
-# **Suggestions from you**
-## **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are in the path of learning and understanding the concept of Machine learning, so any feedback regarding this topic from any of you who worked in these type of projects is beneficial to us in correcting our mistakes and implementing the recorrected procedures to our project.** 
+## **Suggestions from you**
+### **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are in the path of learning and understanding the concept of Machine learning, so any feedback regarding this topic from any of you who worked in these type of projects is beneficial to us in correcting our mistakes and implementing the recorrected procedures to our project.** 
