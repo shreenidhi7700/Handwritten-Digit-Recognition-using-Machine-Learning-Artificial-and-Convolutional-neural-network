@@ -22,7 +22,6 @@ papers, images, etc.
 *   In different real-world scenarios for online handwriting recognition on computer tablets or system, recognize number
 plates of vehicles, processing bank cheque amounts, numeric entries in forms filled up by hand (say — tax forms) and so on
 
-
 *   Here's a breakdown of how digit recognition systems work:
 
 **Data Preprocessing**: The system takes an image of a digit as input. This image is then preprocessed to ensure consistency. Preprocessing may involve steps like resizing the image, converting it to grayscale, and thinning lines.
@@ -32,3 +31,8 @@ plates of vehicles, processing bank cheque amounts, numeric entries in forms fil
 **Classification**: The extracted features are fed into a machine learning model that has been trained to recognize digits. Common algorithms used for digit recognition include K-nearest neighbors and convolutional neural networks (CNNs). CNNs are particularly effective due to their ability to learn complex patterns from data.
 
 **Output**: The model outputs the most likely digit based on the extracted features.
+
+## Dataset for the project is pre-built into the **keras.dataset** library and can be extracted using a simple code, which you can refer using my jupyter notebook.
+
+# **Suggestions from you**
+## **Feel free to give us any suggestions regarding improvisation /corrections of our code or any mistakes/procedures done incorrectly in our project notebook. We are in the path of learning and understanding the concept of Machine learning, so any feedback regarding this topic from any of you who worked in these type of projects is beneficial to us in correcting our mistakes and implementing the recorrected procedures to our project.** 
